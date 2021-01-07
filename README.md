@@ -3,7 +3,7 @@ Various projects completed during my time at UBC in the Physics department befor
 
 There is a total of five projects from phys 210, these include:
 
-1: Differential Equation Solving for Ballistics
+1: Differential Equation Solving for Ballistics /n
 2: Ferromagnetism, (2D ising model, code is fairly sloppy but it works and produces animations to demonstrate the effect of temperature on magnetism)
 3: Resonance
 4: Kinetic Theory of Gases (this code also creates an animation)
