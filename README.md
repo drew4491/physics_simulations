@@ -8,5 +8,3 @@ There is a total of five projects from phys 210 all done in Python, these includ
 3: Resonance<br/>
 4: Kinetic Theory of Gases (this code also creates an animation  but for some reason it doesnt work anymore)<br/>
 5: Heat Distribution (this project shows a 2d heat map of heat distribution over time, if the conditions are not set properly the animation will break)<br/>
-
-This was the first course I had taken in python and only the second course overall in coding.<br/>
